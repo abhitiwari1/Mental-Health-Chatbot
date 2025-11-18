@@ -1,0 +1,36 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js",
+    "prod": "pm2 start app.js"
+  },
+  "keywords": [],
+  "author": "Abhishek Tiwari",
+  "license": "ISC",
+  "description": "Backend for AI therapy Agent",
+  "dependencies": {
+    "@langchain/core": "^1.0.5",
+    "@langchain/openai": "^1.1.2",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "groq": "^4.15.0",
+    "groq-sdk": "^0.35.0",
+    "helmet": "^8.1.0",
+    "inngest": "^3.45.1",
+    "jsonwebtoken": "^9.0.2",
+    "langchain": "^1.0.5",
+    "mongoose": "^8.20.0",
+    "morgan": "^1.10.1",
+    "openai": "^6.9.1",
+    "winston": "^3.18.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.11"
+  }
+}
