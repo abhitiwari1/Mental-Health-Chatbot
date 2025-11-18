@@ -1,0 +1,27 @@
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-11-18T15:34:40.809Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-11-18T15:34:40.820Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:5000/api/inngest","timestamp":"2025-11-18T15:34:40.822Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-11-18T15:36:15.392Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-11-18T15:36:15.401Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:5000/api/inngest","timestamp":"2025-11-18T15:36:15.403Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-11-18T15:36:28.361Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-11-18T15:36:28.367Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:5000/api/inngest","timestamp":"2025-11-18T15:36:28.368Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-11-18T15:43:49.979Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-11-18T15:43:49.984Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:5000/api/inngest","timestamp":"2025-11-18T15:43:49.985Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-11-18T15:46:22.221Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-11-18T15:46:22.231Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:5000/api/inngest","timestamp":"2025-11-18T15:46:22.231Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-11-18T15:46:49.372Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-11-18T15:46:49.380Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:5000/api/inngest","timestamp":"2025-11-18T15:46:49.381Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-11-18T15:49:01.748Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-11-18T15:49:01.754Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:5000/api/inngest","timestamp":"2025-11-18T15:49:01.755Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-11-18T16:03:59.293Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-11-18T16:03:59.303Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:5000/api/inngest","timestamp":"2025-11-18T16:03:59.304Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-11-18T16:04:01.665Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-11-18T16:04:01.679Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:5000/api/inngest","timestamp":"2025-11-18T16:04:01.686Z"}
